@@ -36,10 +36,9 @@ solutions/
 
 ## Quick Start
 
-1. Read the full setup instructions: `ops/SETUP.md`
-2. Start services: `make up`
-3. Seed database: `make seed`
-4. Run benchmarks: `make bench`
+1. Start services: `make up`
+2. Seed database: `make seed`
+3. Run benchmarks: `make bench`
 
 **Note:** This environment uses hardcoded credentials for local development only. See `ops/SETUP.md` for details.
 
@@ -64,3 +63,4 @@ Optional but appreciated:
 - Use plain ASCII in files; avoid smart quotes and non-ASCII characters.
 
 Good luck and have fun!
+
